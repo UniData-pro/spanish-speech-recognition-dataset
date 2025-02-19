@@ -1,3 +1,4 @@
+# Spanish Speech Dataset for recognition task
 Dataset comprises **488** hours of telephone dialogues in Spanish, collected from **600** native speakers across various topics and domains. This dataset boasts an impressive **98%** word accuracy rate, making it a valuable resource for advancing **speech recognition technology**.
 
 By utilizing this dataset, researchers and developers can advance their understanding and capabilities in **automatic speech recognition** (ASR) systems, **transcribing audio**, and **natural language processing** (NLP).  - **[Get the data](https://unidata.pro/datasets/spanish-speech-recognition-dataset/?utm_source=github&utm_medium=cpc&utm_campaign=spanish-speech-recognition-dataset)**
